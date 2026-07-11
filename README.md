@@ -16,13 +16,13 @@
   <a href="https://www.linkedin.com/in/farhan-ahmad-kust">
     <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:farhanbangash091@mail.com">
+  <a href="mailto:farhanbangash091@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_FACEBOOK_PROFILE_URL">
+  <a href="https://www.facebook.com/profile.php?id=100088704686832">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="YOUR_INSTAGRAM_PROFILE_URL">
+  <a href="https://www.facebook.com/profile.php?id=100088704686832">
     <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
